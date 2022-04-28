@@ -55,8 +55,6 @@ menu:
     url:               /docs/
   - title:             About
     url:               /about/
-  - title:             Showcase
-    url:               /showcase/
   - title:             Projects
     url:               /project/
 
@@ -306,10 +304,6 @@ collections:
 
   projects:
     permalink:         /projects/:path/
-    output:            true
-
-  showcase:
-    permalink:         /showcase/:path/
     output:            true
 
 
