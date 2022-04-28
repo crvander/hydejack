@@ -302,8 +302,12 @@ collections:
     permalink:         /tag-:name/
     output:            true
 
-  projects:
-    permalink:         /projects/:path/
+  # projects:
+  #   permalink:         /projects/:path/
+  #   output:            true
+
+  showcase:
+    permalink:         /showcase/:path/
     output:            true
 
 
