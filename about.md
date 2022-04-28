@@ -13,7 +13,7 @@ redirect_from:
 
 <!--author-->
 
-## Hydejack
+## Creativamind
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
 {:.lead}
