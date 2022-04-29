@@ -139,6 +139,11 @@ defaults:
       layout:          plain
       sitemap:         false
 
+      - scope:
+      path: projects.md
+    values:
+      menu: true
+
   # # You can use the following to enable comments on all posts.
   # - scope:
   #     type:            posts
