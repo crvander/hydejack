@@ -81,7 +81,7 @@ permalink:             /:categories/:year-:month-:day-:title/
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
 # paginate_path:         /:num/
-paginate_path: /my-blog/:num/ 
+paginate_path:         /my-blog/:num/ 
 
 
 # Theme
