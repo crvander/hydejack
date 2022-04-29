@@ -139,9 +139,10 @@ defaults:
       layout:          plain
       sitemap:         false
 
-      - scope:
+  - scope:
       path:            projects/
     values:
+      layout:          project
       sitemap:         true
 
   # # You can use the following to enable comments on all posts.
