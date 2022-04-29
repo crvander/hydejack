@@ -58,7 +58,7 @@ menu:
   - title:             Projects
     url:               /projs/
   - title:             Blog
-    url:               index.html
+    url:               /my-blog/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -80,7 +80,8 @@ permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
-paginate_path:         /:num/
+# paginate_path:         /:num/
+paginate_path: /my-blog/:num/ 
 
 
 # Theme
