@@ -52,7 +52,7 @@ menu:
   - title:             Example
     url:               /example/
   - title:             Documentation
-    url:               /docs/
+    url:               /docs2/
   - title:             About
     url:               /about/
   - title:             Projects
@@ -125,7 +125,7 @@ defaults:
       theme_color:     rgb(32,32,32)
       accent_image:
         background:    rgb(32,32,32)
-        overlay:       false
+        overlay:       true
 
   # Don't include documents in assets in the sitemap
   - scope:
