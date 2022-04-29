@@ -20,7 +20,7 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Carlos Ricco van der Ley
+title:                 Creativamind
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -30,7 +30,7 @@ title:                 Carlos Ricco van der Ley
 #   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Creativamind
+tagline:               Carlos Ricco van der Ley
 
 # A list of keywords for your blog
 keywords:              []
