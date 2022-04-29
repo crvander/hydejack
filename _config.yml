@@ -303,7 +303,7 @@ collections:
     output:            true
 
   projects:
-    permalink:         /projs/:path/
+    permalink:         /projects/:path/
     output:            true
 
 
