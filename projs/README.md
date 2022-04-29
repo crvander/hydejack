@@ -17,4 +17,6 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 
 
 ## Getting started
-* [proj1]{:.heading.flip-title} --- First Project.
+* [proj 1]{:.heading.flip-title} --- First Project.
+
+[proj_2]: proj1.md
