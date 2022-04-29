@@ -16,7 +16,10 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 {:.note}
 
 
-## Getting started
+## My projects
 * [proj1]{:.heading.flip-title} --- First Project.
+* [proj2]{:.heading.flip-title} --- First Project.
+
 
 [proj1]: proj1.md
+[proj2]: proj2.md

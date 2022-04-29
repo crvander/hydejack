@@ -1,12 +1,12 @@
 ---
 layout: page
-title: project 1
+title: project 2
 image: 
-  path: /assets/img/proj/proj1@0,5x.jpg
+  path: /assets/img/proj/proj2@0,5x.jpg
 description: >
   How you install Hydejack depends on whether you start a new site,
   or change the theme of an existing site.
-hide_description: false
+hide_description: true
 sitemap: false
 ---
 
