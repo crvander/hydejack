@@ -4,8 +4,8 @@ title:  Welcome 1
 # cover:  true #!! Add this
 ---
 
-Hi there
-{:toc}
+<p><b>Hi there</b></p>
+
 
 <script>
 if (window.innerWidth > 480) {
