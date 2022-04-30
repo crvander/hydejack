@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title:  Welcome
 cover:  true #!! Add this
 ---
