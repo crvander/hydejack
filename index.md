@@ -7,10 +7,10 @@ title:  Welcome 1
 // In index2.html
 if (window.innerWidth <= 480) {
     window.location = "index2.md";
-    window.alert("go to mobile");
+    alert("go to mobile");
 }
 else{
-     window.alert("go to desktop");
+     alert("go to desktop");
 }
 
 </script>
