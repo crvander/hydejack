@@ -1,9 +1,3 @@
----
-layout: page
-title:  Welcome 1
-# cover:  true #!! Add this
----
-
 <p><b>Hi there</b></p>
 
 
@@ -15,4 +9,10 @@ else{
     alert("Go to mobile!");
 }
 </script>
+
+---
+layout: page
+title:  Welcome 1
+# cover:  true #!! Add this
+---
 
