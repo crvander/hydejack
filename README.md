@@ -1,9 +1,5 @@
 # Hydejack Starter Kit
 
-<script>
-document.body.classList.toggle('nav-open');
-</script>
-
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-lang="en">
   <p lang="en" dir="ltr">
