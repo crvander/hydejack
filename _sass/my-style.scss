@@ -17,15 +17,9 @@
   padding: 0 !important;
 }
 
-/* #### Desktops #### */
-@media only screen and (min-width: 393px) and (-webkit-min-device-pixel-ratio: 3){
-  img.avatar {
-    width: 256px !important;
-    height: auto !important;
-  }
-}
-
-
+img.avatar {
+  width: 256px !important;
+  height: auto !important;
 
 .avatar {
   border-radius: 0 !important
