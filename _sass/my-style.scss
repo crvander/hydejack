@@ -18,7 +18,7 @@
 }
 
 /* #### Desktops #### */
-@media only screen and (max-width: 393px) and (-webkit-min-device-pixel-ratio: 3){
+@media only screen and (min-width: 393px) and (-webkit-min-device-pixel-ratio: 3){
   img.avatar {
     width: 256px !important;
     height: auto !important;
