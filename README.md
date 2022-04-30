@@ -1,7 +1,7 @@
 # Hydejack Starter Kit
 
 <script>
-document.getElementById("drawer").onload = function() {myFunction()};
+document.getElementById("_drawer").onload = function() {myFunction()};
 
 function myFunction() {
   window.drawer.toggle();
