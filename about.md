@@ -1,5 +1,7 @@
 ---
 layout: about
+image:
+  path: /assets/img/logo_page.jpg
 image: /assets/img/blog/hydejack-9.jpg
 description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
