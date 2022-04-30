@@ -17,10 +17,15 @@
   padding: 0 !important;
 }
 
-img.avatar {
-  width: 256px !important;
-  height: auto !important;
+/* #### Desktops #### */
+@media screen and (min-width: 1024px){
+  img.avatar {
+    width: 256px !important;
+    height: auto !important;
+  }
 }
+
+
 
 .avatar {
   border-radius: 0 !important
@@ -43,3 +48,10 @@ a#_drawer--opened, a.sidebar-nav-item {
   /* font-weight: 200; */
 }
 
+.sidebar-sticky {
+  opacity: 0 !important;
+}
+
+header #_sidebar.sidebar {
+  transform: translate(0px, 0px) !important;
+}
