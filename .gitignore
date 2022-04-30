@@ -50,5 +50,5 @@ _zip
 # /dist //I commented
 # /build //I commented
 
-# /assets/js/*hydejack-* //I commented
+/assets/js/*hydejack-*
 # /_sass/*/__*__/* //I commented
