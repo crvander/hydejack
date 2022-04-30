@@ -1,4 +1,5 @@
 ---
+layout: page
 image:
   path: /assets/img/logo_page.jpg
 ---
