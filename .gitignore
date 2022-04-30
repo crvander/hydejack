@@ -21,7 +21,7 @@ _drafts
 Thumbs.db
 .cache
 .project
-.settings
+# .settings //I commented
 .tmproj
 *.esproj
 nbproject
@@ -50,5 +50,5 @@ _zip
 /dist
 /build
 
-/assets/js/*hydejack-*
-/_sass/*/__*__/*
+# /assets/js/*hydejack-* //I commented
+# /_sass/*/__*__/* //I commented
