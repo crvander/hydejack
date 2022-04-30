@@ -1,5 +1,9 @@
 # Hydejack Starter Kit
 
+<script>
+window.drawer.toggle()
+</script>
+
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-lang="en">
   <p lang="en" dir="ltr">
