@@ -9,7 +9,7 @@ title:  Welcome 1
 
 <script>
 if (window.innerWidth > 480) {
-  window.open("index2.md", "_self");
+  window.open("README.md", "_self");
 }
 else{
     alert("Go to mobile!");
