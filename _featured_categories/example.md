@@ -3,7 +3,7 @@
 layout: list
 
 image:
-  path: /assets/img/logo-page.jpg
+  path: /assets/img/logo_page.jpg
 
 # The title of the tag's page.
 title: Example
