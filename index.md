@@ -9,9 +9,10 @@ Hi there
 
 <script>
 if (window.innerWidth > 480) {
-  window.open("https://www.w3schools.com");
+  window.open("index2.md", "_self");
 }
 else{
     alert("Go to mobile!");
 }
 </script>
+
