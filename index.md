@@ -5,7 +5,7 @@ title:  Welcome 1
 ---
 <script>
 // In index2.html
-if (window.innerWidth < 960) {
+if (window.innerWidth <= 480) {
     window.location = "index2.md";
 }
 
