@@ -1,9 +1,3 @@
----
-layout: page
-image:
-  path: /assets/img/logo_page.jpg
----
-
 # Hydejack Starter Kit
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
