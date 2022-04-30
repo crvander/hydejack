@@ -1,7 +1,7 @@
 ---
-layout: welcome
+layout: page
 title:  Welcome
-# cover:  true #!! Add this
+cover:  true #!! Add this
 ---
 
 Hi there
