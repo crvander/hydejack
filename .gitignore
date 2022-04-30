@@ -38,17 +38,17 @@ validation-status.json
 validation-report.json
 
 # Folders to ignore
-node_modules
+# node_modules //I commented
 package*.json
-vendor
+# vendor //I commented
 .sass-cache
-.jekyll-metadata
+# .jekyll-metadata //I commented
 .jekyll-cache
-*.gem
+# *.gem //I commented
 _zip
 /stats.json
-/dist
-/build
+# /dist //I commented
+# /build //I commented
 
 # /assets/js/*hydejack-* //I commented
 # /_sass/*/__*__/* //I commented
