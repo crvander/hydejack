@@ -1,20 +1,29 @@
-<p><b>Hi there</b></p>
-
-
 <script>
+if (window.innerWidth > 480) {
+    ---
+        layout: page
+        title:  Welcome 1
+        # cover:  true #!! Add this
+    ---
+}
+else{
+    alert("Go to mobile!");
+}
+</script>
+<!-- ---
+layout: page
+title:  Welcome 1
+# cover:  true #!! Add this
+--- -->
+
+<!-- <script>
 if (window.innerWidth > 480) {
   window.open("www.w3school.com");
 }
 else{
     alert("Go to mobile!");
 }
-</script>
-
----
-layout: page
-title:  Welcome 1
-# cover:  true #!! Add this
----
+</script> -->
 
 A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 
