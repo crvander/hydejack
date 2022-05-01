@@ -2,9 +2,6 @@
 # Featured tags need to have either the `list` or `grid` layout (PRO only).
 layout: list
 
-image:
-  path: /assets/img/logo_page.jpg
-
 # The title of the tag's page.
 title: Example
 
