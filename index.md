@@ -4,7 +4,7 @@ title:  Welcome
 cover:  true #!! Add this
 ---
 
-Introduction here!
+LANDING PAGE!
 
 
 
